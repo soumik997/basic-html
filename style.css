@@ -1,0 +1,22 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.firs-class{
+    font-size: 40px;
+    font-weight: 200;
+    font-family: 'Courier New', Courier, monospace;
+    line-height: 3;
+    color: red;
+    text-shadow: 10px 20px 30px red;
+}
+.second-class{
+    font-size: 10px;
+}
+.third-class{
+    color: red;
+}
+#dummy{
+    color: blue;
+}
